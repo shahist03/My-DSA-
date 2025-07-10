@@ -2,7 +2,7 @@ package DSA.matrix;
 
 import java.util.Scanner;
 
-public class matrix_2 {
+public class transpose {
     public static void main(String[] args) {
         int[][] A = new int[5][5];
         Scanner sc=new Scanner(System.in);

@@ -2,7 +2,7 @@ package DSA.matrix;
 
 import java.util.Scanner;
 
-public class matrix_3 {
+public class sum_of_all {
     public static void main(String[] args) {
         int[][] A = new int[5][5];
         int sum=0;
